@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  This is where Llewelyn Dramayo and Margaret Grace Docdoc will keep their assignments for the course 3203N.
+  This is where assignments for the course 3203N will be kept.
 </p>
