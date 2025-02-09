@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Welcome to the repository for **3203N assignments**. All coursework, projects, and related materials will be stored here.
+  Welcome to the repository for <strong><em>3203N assignments</em></strong>. All coursework, projects, and related materials will be stored here.
 </p>
 
 <p align="center"><strong>Contributors</strong></p>
