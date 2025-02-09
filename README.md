@@ -5,5 +5,8 @@
 </p>
 
 <p align="center">
-  This is where assignments for the course 3203N will be kept.
+  Welcome to the repository for **3203N assignments**. All coursework, projects, and related materials will be stored here.
 </p>
+
+<p align="center"><strong>Contributors</strong></p>
+<p align="center">Margaret Grace Docdoc & Llewelyn Dramayo</p>
